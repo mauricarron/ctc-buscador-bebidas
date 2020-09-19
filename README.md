@@ -1,8 +1,8 @@
-# [Buscador de Recetas de Bebidas]()
+# [Buscador de Recetas de Bebidas](https://mdcarron-ctc-buscador-bebidas.netlify.app/)
 
 ## Deploy 🔻
 
-[Buscador de Recetas de Bebidas]()
+[Buscador de Recetas de Bebidas](https://mdcarron-ctc-buscador-bebidas.netlify.app/)
 
 ## ⭐ Acerca del Proyecto
 
@@ -12,9 +12,9 @@ Proyecto de aprendizaje realizado en el curso **Desarrollo FrontEnd con React**,
 
 - Profundiza sobre elementos fundamentales de React
 - Bootstrap CSS
+- Material UI
 - Fetch APIs (Axios)
 - Context API
-- PropTypes
 - Deploy (Netlify)
 
 ## ✅ Tecnologías
