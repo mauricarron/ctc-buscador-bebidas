@@ -4,7 +4,6 @@ import Receta from "./Receta";
 
 const ListaRecetas = () => {
   const { recetas } = useContext(RecetasContext);
-  console.log(recetas);
   return (
     <Fragment>
       <h2 className="text-center col-12">Recetas</h2>
