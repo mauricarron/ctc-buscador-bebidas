@@ -6,7 +6,7 @@ const ListaRecetas = () => {
   const { recetas } = useContext(RecetasContext);
   return (
     <Fragment>
-      <h2 className="text-center col-12">Recetas</h2>
+      {!recetas ? <h2 className="text-center col-12">Recetas</h2> : null}
       {recetas.map((receta) => (
         <Receta key={receta.idDrink} receta={receta} />
       ))}
